@@ -37,26 +37,31 @@
 
 1. True Positive Rate: The percentage of phishing emails in the training data set that were correctly classified by the algorithm.
 
-  TPR = 99.55
+> TPR = 99.55
 
 2. True Negative Rate: The percentage of legitimate emails that were correctly classified as legitimate by the algorithm.
 
-  TNR = 89.60
+> TNR = 89.60
 
 3. False Positive Rate: It is the percentage of legitimate emails that were incorrectly classified by the algorithm as phishing emails.
 
-  FPR = 10.39
+> FPR = 10.39
 
 4. False Negative Rate: The number of phishing emails that were incorrectly classified as legitimate by the algorithm.
 
-  FNR = 0.79
+> FNR = 0.79
 
 5. Precision: Measures the exactness of the classifier. i.e., what percentage of emails that the classifier labelled as phishing are actually phishing emails.
 
-  Precision = TP / (TP + FP) = 89.46
+> Precision = TP / (TP + FP) = 89.46
 
 6. Recall: Measures the completeness of the classifier results. i.e., what percentage of phishing emails did the classifier label as phishing.
 
-  Recall = TP / (TP + FN) = 99.55
+> Recall = TP / (TP + FN) = 99.55
 
+## Author
+
+Name: Malay Dhami
+
+Email: malaydhami99@gmail.com
 
